@@ -1,0 +1,6 @@
+name: FracturedFactions
+version: '1.0-SNAPSHOT'
+main: io.github.imaquarius.fracturedFactions.FracturedFactions
+api-version: '1.21'
+depend:
+  - MedievalFactions
