@@ -2,7 +2,6 @@ package io.github.imaquarius.fracturedFactions.utils;
 
 import com.dansplugins.factionsystem.faction.MfFaction;
 import com.dansplugins.factionsystem.faction.MfFactionMember;
-import org.bukkit.Bukkit;
 import org.jetbrains.annotations.Nullable;
 
 import java.util.List;
